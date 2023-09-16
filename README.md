@@ -1,9 +1,9 @@
 
-# IDS-706_Proj2
+# IDS-706_Proj3
 [![CI](https://github.com/Antara999333/IDS-706_Proj2/actions/workflows/cicd.yml/badge.svg)](https://github.com/Antara999333/IDS-706_Proj2/actions/workflows/cicd.yml)
 
 
-This is my mini project for week 2. I have used my template from Mini Project 1. The objective of this project is to analyze a Covid-19 dataset to analyze statistics about patients who were high at risk due to shortage of icu beds. 
+This is my mini project for week 3. I have used my template from Mini Project 2. The objective of this project is to analyze a Covid-19 dataset to analyze statistics about patients who were high at risk due to shortage of icu beds using the polars library.
 The contents of my repository are as follows:
 
 ## Readme
