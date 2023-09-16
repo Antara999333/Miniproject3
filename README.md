@@ -27,7 +27,7 @@ This function uses pandas to analyze the mean, median and standard variation for
 I have also use matplotlib to plot a bar graph. 
 
 ![Alt Text](https://github.com/Antara999333/Miniproject3/blob/main/MIni%20proj%203%20image.png)
-
+![Alt Text](https://github.com/Antara999333/Miniproject3/blob/main/mini_project3_picture.jpg.png)
 
 
 
