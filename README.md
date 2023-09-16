@@ -26,7 +26,7 @@ This is used for python projects. It specifies the dependencies of the project. 
 This function uses pandas to analyze the mean, median and standard variation for the columns representing high risk patients. 
 I have also use matplotlib to plot a bar graph. 
 
-
+![Alt Text](https://github.com/Antara999333/Miniproject3/blob/main/MIni%20proj%203%20image.png)
 
 
 
